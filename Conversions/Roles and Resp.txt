@@ -1,0 +1,10 @@
+Roles and Responsibilities of Python Developer
+==============================================
+-->writing scripts to convert files form one format to another format
+  (csv to xml,json  json to xml,csv  xml to json,csv)
+-->working with Regular expressions to match the patterns
+  (like checking emailid,phone numbers,urls,ipaddress)
+-->writing SQL queries to communicate with DB
+  (DDL,DRL,DML,DCL)
+-->hands on experience on html to create webpages using django framework
+-->sending mail through python   
